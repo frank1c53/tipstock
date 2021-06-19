@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493705318306",
+    "project_id": "tipstock-c603b",
+    "storage_bucket": "tipstock-c603b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493705318306:android:4db89fdce7c24571516cfb",
+        "android_client_info": {
+          "package_name": "com.organization.tipstock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493705318306-gru7m03koh9ehh2b8td2g8hdd54jcfl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGCTH_q_SAXd1ReqU1vNYu5MaMjsluxq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493705318306-gru7m03koh9ehh2b8td2g8hdd54jcfl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
